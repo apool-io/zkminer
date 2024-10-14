@@ -22,7 +22,7 @@ If you didn't have an apool account, Head over to [Apool Website](https://www.ap
 Then start miner like:
 
 ```powershell
-./zkminer -a  <apool sub-account> -h <aleo proxy> -p <proxy port> -w <worker name>
+./zkminer -a  <apool sub-account> -s <aleo proxy> -p <proxy port> -w <worker name>
 ```
 
 
