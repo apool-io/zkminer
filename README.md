@@ -37,3 +37,11 @@ Then start miner like:
 - NVIDIA Turing GPU (RTX20)
 - NVIDIA Ampere GPU (RTX30)
 - NVIDIA Ada Lovelace GPU (RTX40)
+
+## Changelog
+### v0.0.1
+1. First version for mainnet.
+
+### v0.0.2
+1. Lower CPU usage
+2. Support old CPUs
