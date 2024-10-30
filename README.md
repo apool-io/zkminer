@@ -45,3 +45,5 @@ Then start miner like:
 ### v0.0.2
 1. Lower CPU usage
 2. Support old CPUs
+### v0.0.3
+1. Fixed the bug requiring dependency updates.
